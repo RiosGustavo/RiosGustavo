@@ -1,8 +1,5 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="![foto perfil 1 1](https://github.com/RiosGustavo/RiosGustavo/assets/111397589/4f80d438-c29d-4086-b167-eb7f72a122c6)" />
-   <h3 align="center">¡Hola 👋! Soy Agustín 👨🏻‍💻</h3>
-</p>
-<p align="center"><strong>Desarrollador Full Stack</strong></p>
+
+![foto perfil 1 1](https://github.com/RiosGustavo/RiosGustavo/assets/111397589/6de5a74e-8289-4f46-99b4-ebc8099f40a8)
 
 
 
