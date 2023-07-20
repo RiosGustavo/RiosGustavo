@@ -1,6 +1,6 @@
-
+<p align="center">
 ![foto perfil 1 1](https://github.com/RiosGustavo/RiosGustavo/assets/111397589/6de5a74e-8289-4f46-99b4-ebc8099f40a8)
-
+</p>
 
 
 
