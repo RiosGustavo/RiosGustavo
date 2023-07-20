@@ -1,5 +1,6 @@
 
-![foto perfil 1](https://github.com/RiosGustavo/RiosGustavo/assets/111397589/1a5eadb3-2dfc-48dc-9512-3d78df187e6a)
+![foto perfil 1 1](https://github.com/RiosGustavo/RiosGustavo/assets/111397589/4f80d438-c29d-4086-b167-eb7f72a122c6)
+
 ### Hi I'm Gustavo Superlango 👋
 
 
