@@ -19,6 +19,21 @@
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40">](https://git-scm.com/) | NetBeans | IntelliJ IDEA | más...
 |---|---|---|---|---|
 
+### Github Repos
+
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RiosGustavo&repo=ClimateAware)](https://github.com/RiosGustavo/climateaware)
+
+
+<h3> 🤝🏻 Contact / Contacto  </h3>
+
+<p align="center">
+  <a href="www.linkedin.com/in/gustavo-superlango" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@gustavosuperlango-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:gustavosuperlango@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gustavosuperlango@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
+
 
 
 
