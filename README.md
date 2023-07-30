@@ -29,7 +29,7 @@
 <h3> 🤝🏻 Contact / Contacto  </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/gustavo-superlango" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@gustavosuperlango-blue?style=flat&logo=linkedin"></a>
+  <a href="www.linkedin.com/in/gustavo-superlango/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@gustavosuperlango-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:gustavosuperlango@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gustavosuperlango@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
