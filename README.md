@@ -4,8 +4,20 @@
   <h3 align="center"> ### Hi I'm Gustavo Superlango 👋 </h3>
 </p>
 
+### Programming Languages / Lenguajes de Programación🌐
+
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="38">](https://www.java.com/es/) |
 |---|
+
+### Web Technologies / Tecnologías Web 🌐
+
+|<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="45">| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="45"> |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="33">](https://getbootstrap.com/) |  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="38">|   [<img src="https://github.com/agustinlorca/agustinlorca/assets/105286586/1ab5b3b5-6710-4cec-a55a-8d4753049c61" alt="thymeleaf" width="70">](https://www.thymeleaf.org/)|
+|---|---|---|---|---|
+
+### Tools 🛠️
+
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40">](https://git-scm.com/) | NetBeans | IntelliJ IDEA | más...
+|---|---|---|---|---|
 
 
 
